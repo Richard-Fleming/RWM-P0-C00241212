@@ -1,0 +1,7 @@
+{
+    "name": "ie.itcarlow.diff",
+    "version": "0.1.0",
+    "displayName": "Diff",
+    "description": "A filter that replaces each number by the absolute value of the difference between itself and the previous number.",
+    "unity": "2020.3"
+}
